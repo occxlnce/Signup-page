@@ -5,6 +5,7 @@ This repository contains HTML and CSS code for a Register page. The Register pag
 ## Table of Contents
 
 - [Features](#features)
+- [Demo](#demo)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -19,6 +20,9 @@ The v page provided in this repository offers the following features:
 - A clean and intuitive user interface for Register functionality.
 - Input fields for username, email, phone and password.
 - Responsive design that adapts to different screen sizes.
+
+## Demo
+https://glassregister.netlify.app/
 
 ## Getting Started
 
