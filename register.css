@@ -1,0 +1,84 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  background: url(vegies5.jpg) no-repeat center fixed;
+  background-size: contain;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  color: #F0EBCE;
+}
+
+form {
+  display:block;
+  position:relative;
+  width:500px;
+  height: 570px;
+  background:#395144;
+  margin: 50px auto;
+  padding:50px;
+  background: rgba( 255, 255, 255, 0.45 );
+  box-shadow: 0 8px 32px 0 #F0EBCE;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.input {
+  margin: 45px 0 25px;
+  position: relative;
+}
+
+.input input {
+  background-color: transparent;
+  border: none;
+  border-bottom: 2px solid #F0EBCE;
+  font-size: 18px;
+  font-family: sans-serif;
+  padding: 10px 3px;
+  width: 100%;
+}
+
+.input label {
+  color: #F0EBCE;
+  display: block;
+  position: absolute;
+  top: -20px;
+
+}
+.input input:not(:focus):placeholder-shown + label {
+  color: #818181;
+  top: 10px;
+}
+
+
+h2 {
+  font-size: 40px;
+}
+
+button {
+  border: 2px solid #F0EBCE;
+  background-color: transparent;
+  cursor: pointer;
+  float: right;
+  height: 40px;
+  width: 124px;
+  font-size: 20px;
+  border-radius: 20px;
+  color: #395144;
+}
+
+button:hover {
+  border: none;
+  background-color: #395144;
+  Color: #F0EBCE;
+}
