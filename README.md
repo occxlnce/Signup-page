@@ -1,6 +1,6 @@
-# Register Page HTML and CSS Repository
+# Sign-up Page Repository
 
-This repository contains HTML and CSS code for a Register page. The Register page is a basic user interface designed for user authentication and can be used as a starting point for building Register functionality in web applications.
+The Register page was designed for user authentication and can be used as a starting point for building Register functionality in web applications.
 
 ## Table of Contents
 
