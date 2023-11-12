@@ -20,8 +20,8 @@ body {
 form {
   display:block;
   position:relative;
-  width:720px;
-  height: 600px;
+  width:750px;
+  height: 650px;
   background:#395144;
   margin: 50px auto;
   padding:50px;
@@ -62,7 +62,7 @@ form {
 
 
 h2 {
-  font-size: 55px;
+  font-size: 60px;
 }
 
 button {
